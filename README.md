@@ -236,4 +236,4 @@ public class MainHomePage extends AppCompatActivity {
 
 ## Output
 
-!![gif](gambar/output.gif)
+![gif](gambar/output.gif)
